@@ -7,4 +7,5 @@ Speech Recognition: Shujath Ali
 Closed-loop Communication Detection: Swathi Nukala 
 Computer Vision, GUI, System Integration: Juan Lopez Marcano
 
+For more information, here is our paper:
 http://pie.eng.usf.edu/wp-content/uploads/2013/06/syed-mmvr2013.pdf
