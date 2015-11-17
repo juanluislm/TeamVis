@@ -1,0 +1,2 @@
+C:\Users\juanluis\Documents\Arya\Copia (2) de videocapture67\VideoCapture\obj\x86\Debug\VideoCapture.exe
+C:\Users\juanluis\Documents\Arya\Copia (2) de videocapture67\VideoCapture\obj\x86\Debug\VideoCapture.pdb
